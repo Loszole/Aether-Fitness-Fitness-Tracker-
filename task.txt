@@ -1,0 +1,7 @@
+TASK 3: Fitness Tracker App
+Create a fitness tracking app:
+● The app should allow users to track daily fitness activities like steps, workouts, calories burned, etc.
+● Users can add or log their fitness data manually (e.g., workout time, exercise type, calories).
+● Include a dashboard or summary screen showing daily/weekly progress.
+● UI should be simple, clean, and user-friendly, with visual elements like graphs or progress bars.
+● Data can be stored using local storage (like SQLite) or integrated with a backend like Firebase for saving user records.
