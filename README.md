@@ -135,6 +135,7 @@ flutter test
 1. [README.md](README.md): setup, usage, architecture overview.
 2. [PROJECT_REPORT.md](PROJECT_REPORT.md): formal project report for submission.
 3. [TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md): low-level technical reference.
+4. [PRIVACY_POLICY.md](PRIVACY_POLICY.md): data collection and permissions policy.
 
 ## Future Improvements
 
